@@ -14,7 +14,6 @@ from PySide6.QtWidgets import (
     QLabel,
     QHBoxLayout,
     QVBoxLayout,
-    QGridLayout,
     QSizePolicy,
 )
 
