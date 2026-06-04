@@ -13,7 +13,7 @@ repository = "https://codeberg.org/melvinquick/dubbed"
 issues = "https://codeberg.org/melvinquick/dubbed/issues"
 
 [project.gui-scripts]
-psswd-box = "dubbed.app:main"
+dubbed = "dubbed.app:main"
 
 [build-system]
 requires = ["hatchling"]
