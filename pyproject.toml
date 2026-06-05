@@ -1,6 +1,6 @@
 [project]
 name = "dubbed"
-version = "0.1.0"
+version = "1.0.0"
 description = "Username generator that never leaves your machine."
 readme = "src/dubbed/resources/PYPI_README.md"
 license = "MIT"
