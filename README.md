@@ -11,10 +11,10 @@ The general purpose of this app is to give people an easy way to generate userna
 
 ## Install/Uninstall
 
-Install: `curl -s https://codeberg.org/melvinquick/dubbed/raw/branch/main/install.py | python3 -`  
-Uninstall: `curl -s https://codeberg.org/melvinquick/dubbed/raw/branch/main/uninstall.py | python3 -`
+Install: `curl -s https://github.com/melvinquick/dubbed/raw/branch/main/install.py | python3 -`  
+Uninstall: `curl -s https://github.com/melvinquick/dubbed/raw/branch/main/uninstall.py | python3 -`
 
 ## Useful Information
 
-[Project Goals](https://codeberg.org/melvinquick/dubbed/projects/12633)  
+[Project Goals](https://github.com/users/melvinquick/projects/9)  
 [Latest Releases](https://pypi.org/project/dubbed/)
