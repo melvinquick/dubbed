@@ -16,5 +16,5 @@ Uninstall: `curl -s https://github.com/melvinquick/dubbed/raw/branch/main/uninst
 
 ## Useful Information
 
-[Project Goals](https://github.com/users/melvinquick/projects/9)  
+[Project](https://github.com/users/melvinquick/projects/9)  
 [Latest Releases](https://pypi.org/project/dubbed/)
