@@ -11,8 +11,8 @@ The general purpose of this app is to give people an easy way to generate userna
 
 ## Install/Uninstall
 
-Install: `curl -s https://github.com/melvinquick/dubbed/raw/branch/main/install.py | python3 -`  
-Uninstall: `curl -s https://github.com/melvinquick/dubbed/raw/branch/main/uninstall.py | python3 -`
+Install: `curl -s https://raw.githubusercontent.com/melvinquick/dubbed/raw/branch/main/install.py | python3 -`  
+Uninstall: `curl -s https://raw.githubusercontent.com/melvinquick/dubbed/raw/branch/main/uninstall.py | python3 -`
 
 ## Useful Information
 
